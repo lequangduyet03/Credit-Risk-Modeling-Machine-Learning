@@ -140,10 +140,7 @@ Credit Risk Modeling Machine Lea.../
 
 
 
-
-```
 ## ▶️ How to Run the Application
-```
 ```
 ### 1️⃣ Clone the repository
 ```bash
