@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit==1.28.0
+pandas==2.0.3
+scikit-learn==1.3.0
+joblib==1.3.2
+numpy==1.24.3
+
+# Data analysis (for Jupyter notebook)
+matplotlib==3.7.2
+seaborn==0.12.2
+jupyter==1.0.0
+
+# Optional: for better notebook experience
+ipykernel==6.25.0
+ipywidgets==8.1.0
