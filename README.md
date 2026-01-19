@@ -140,8 +140,8 @@ Credit Risk Modeling Machine Lea.../
 
 
 
-## ▶️ How to Run the Application
 ```
+## ▶️ How to Run the Application
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/lequangduyet03/Credit-Risk-Modeling-Machine-Learning.git
