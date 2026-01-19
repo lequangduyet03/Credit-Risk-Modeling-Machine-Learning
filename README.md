@@ -138,8 +138,8 @@ Credit Risk Modeling Machine Lea.../
 - **Streamlit** - Web app framework
 - **Joblib** - Model serialization
 
----
 
+---
 ## ▶️ How to Run the Application
 
 ### 1️⃣ Clone the repository
