@@ -139,13 +139,17 @@ Credit Risk Modeling Machine Lea.../
 - **Joblib** - Model serialization
 
 
----
-## ▶️ How to Run the Application
 
+
+```
+## ▶️ How to Run the Application
+```
+
+```
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repository-url>
-cd credit-risk-ml
+git clone https://github.com/lequangduyet03/Credit-Risk-Modeling-Machine-Learning.git
+cd Credit-Risk-Modeling-Machine-Learning
 ```
 
 ### 2️⃣ Install dependencies
@@ -155,10 +159,11 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Streamlit app
 ```bash
-streamlit run app/app.py
+streamlit run app.py
 ```
 
 ### 4️⃣ Open in browser
+
 The app will automatically open at `http://localhost:8501`
 
 ---
